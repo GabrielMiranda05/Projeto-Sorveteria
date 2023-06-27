@@ -1,0 +1,42 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+
+body{
+    background-image: url("/imagens/sorvete-fundo.jpg");
+    background-repeat: space;
+    background-position: center;
+    background-size: 100%;
+    background-attachment: fixed;
+}
+
+.top-menu{
+    background-color: #f8d00f;
+}
+
+.center-text{
+    text-align: center;
+    color: white;
+}
+
+.buttons-center{
+    text-align: center;
+    margin-top: 30px;
+}
+
+#button-pink{
+    background-color: pink;
+    margin-top: 30px;
+}
+
+h4{
+    margin: 15px;
+}
+
+#button-produtos{
+    padding: 15px;
+    background-color: black;
+    color: yellow;
+}
