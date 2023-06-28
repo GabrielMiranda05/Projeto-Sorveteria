@@ -4,39 +4,41 @@
     border: 0px;
 }
 
-body{
-    background-image: url("/imagens/sorvete-fundo.jpg");
-    background-repeat: space;
-    background-position: center;
-    background-size: 100%;
-    background-attachment: fixed;
-}
-
 .top-menu{
     background-color: #f8d00f;
 }
 
-.center-text{
+.container{
     text-align: center;
     color: white;
-}
-
-.buttons-center{
-    text-align: center;
-    margin-top: 30px;
+    background-image: url("/imagens/sorvete-fundo.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 200px;
 }
 
 #button-pink{
     background-color: pink;
-    margin-top: 30px;
+    margin-top: 30px;   
+    padding: 10px;
+}
+
+#button-nossosProdutos{
+    padding: 10px;
 }
 
 h4{
-    margin: 15px;
+    margin-bottom: 15px;
 }
 
 #button-produtos{
     padding: 15px;
     background-color: black;
     color: yellow;
+    
+}
+
+#text-bot{
+    margin-top: 15px;
 }
