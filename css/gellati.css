@@ -22,10 +22,12 @@
     background-color: pink;
     margin-top: 30px;   
     padding: 10px;
+    border-radius: 30px;
 }
 
 #button-nossosProdutos{
     padding: 10px;
+    border-radius: 30px;
 }
 
 h4{
@@ -36,7 +38,7 @@ h4{
     padding: 15px;
     background-color: black;
     color: yellow;
-    
+    border-radius: 30px;
 }
 
 #text-bot{
